@@ -1,3 +1,4 @@
 I am a README!
 This is my branch change.
-Conflicting change #2!
+No conflicting change. Harmonious code.
+
